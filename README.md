@@ -10,6 +10,8 @@ This project is a React-based IFC (Industry Foundation Classes) viewer and mater
 
 Users can upload an IFC file, watch it load with a progress bar and stepper, then compute and download a material takeoff report as CSV.
 
+![Alt Text](https://github.com/CristianSotomayorGit/ifc-takeoff/blob/main/public/Screencastfrom2025-07-1702-27-06-ezgif.com-video-to-gif-converter.gif)
+
 ---
 
 ## File Descriptions
